@@ -35,6 +35,9 @@
 		  This has lead to blinking Icons for Cars in the Radar if "Warn-Front" was disabled.
 		  Once i found a better and reliable way to detect if a Car is literally ahead of the Driver, i will reimplement this feature for Replays.		
 
+		Fuel & Lap Details
+		- It is now possible again to use the Fuel-Calculator while the UI is LOCKED
+
 		1.23
 		----------
 		GENERAL
